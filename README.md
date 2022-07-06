@@ -1,7 +1,7 @@
 ## Machine Learning Specialization
 ### https://www.coursera.org/specializations/machine-learning-introduction
 ### What is Machine Learning? 
-###  Answer: From Wiki(the Term ML was used 1959 by Arthur Samuel), Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so. ML is part of AI.  Applications on Machine Learning: Medicine, email filtering, speech recognition, computer vision...Machine Learning is referred as Predictive Analytics.
+###  Answer: From Wiki(the Term ML was used 1959 by Arthur Samuel), Machine learning algorithms build a model based on sample data, known as training data, in order to make predictions or decisions without being explicitly programmed to do so. ML is part of AI.  Applications on Machine Learning: Medicine, email filtering, speech recognition, computer vision...Machine Learning is referred as Predictive Analytics. Algorithms learn from examples. 
 ***
 ## Course 1: Supervised Machine Learning: Regression and Classification  
 (According to Prof. Andrew NG,  99% of economic values produced today by Machine Learning is Supervised ML)
@@ -16,4 +16,7 @@
 * #### Visualization for regression: Regression line, curve 
 
 *** 
-###  Classification( a predctive modeling to analyze categorical data not numerical data):
+###  Classification( a predctive modeling to analyze categorical data not numerical data): Classification is a task that requires the use of machine learning algorithms that learn how to assign a class label to examples from the problem domain. An easy to understand example is classifying emails as “spam” or “not spam.”
+ * #### 4 types of classifications: 
+  https://machinelearningmastery.com/types-of-classification-in-machine-learning/#:~:text=In%20machine%20learning%2C%20classification%20refers,one%20of%20the%20known%20characters.
+  * #### Examples of Classifications: 
