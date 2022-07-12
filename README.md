@@ -17,6 +17,17 @@ using other fields, such as Engine size or number of Cylinders
 
 * #### Types of Regression: Simple regression and multi-Value regression
 * #### Visualization for regression: Regression line, curve 
+***
+### Linear Regression Model, cost function and Gradient Descent: 
+~~~
+Linear Regression model:
+Cost Function:
+Gradient Descent: Gradient descent is an algorithm for finding values of parameters w and b that minimize the cost function J.  What does this update statement do? (Assume \alphaα is small.) 
+![image](https://user-images.githubusercontent.com/51423887/178381263-bd8c1100-4e02-4cd5-96d7-cf496cf630ed.png)
+
+ w=w−α(d/dJ (w,b) )
+
+​Updates parameter ww by a small amount
 
 *** 
 ###  Classification: the process of predicting a discrete class label or category
