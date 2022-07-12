@@ -20,14 +20,15 @@ using other fields, such as Engine size or number of Cylinders
 ***
 ### Linear Regression Model, cost function and Gradient Descent: 
 ```
-Linear Regression model:
-Cost Function:
-Gradient Descent: Gradient descent is an algorithm for finding values of parameters w and b that minimize the cost function J.  What does this update statement do? (Assume \alphaα is small.) 
-![image](https://user-images.githubusercontent.com/51423887/178381263-bd8c1100-4e02-4cd5-96d7-cf496cf630ed.png)
+Linear Regression model: f(x)_w,b = wx + b   ( parameters w and b)
+Cost Function: J(w,b)= 1/2m sum(i to m)( (f_w,b(i)) - y(i) )   ( what a cost function J does is, it measures the difference between the model's predictions, and the actual true values for y)
+goal: minimize the cost function to get a better model  (  The goal of linear regression is to find the parameters w or w and b that results in the smallest possible value for the cost function J)
+Gradient Descent: Gradient descent is an algorithm for finding values of parameters w and b that minimize the cost function J.  What does this update statement do? (Assume learning rate alpha α is small.) 
 
  w=w−α(d/dJ (w,b) )
-
-​Updates parameter ww by a small amount
+ b= b - α(d/dJ (w,b) )
+​Updates parameter w by a small amount
+* Updates parameter b by a small amount
 ```
 *** 
 ###  Classification: the process of predicting a discrete class label or category
