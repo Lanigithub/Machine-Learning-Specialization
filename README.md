@@ -19,7 +19,7 @@ using other fields, such as Engine size or number of Cylinders
 * #### Visualization for regression: Regression line, curve 
 ***
 ### Linear Regression Model, cost function and Gradient Descent: 
-~~~
+```
 Linear Regression model:
 Cost Function:
 Gradient Descent: Gradient descent is an algorithm for finding values of parameters w and b that minimize the cost function J.  What does this update statement do? (Assume \alphaα is small.) 
@@ -28,7 +28,7 @@ Gradient Descent: Gradient descent is an algorithm for finding values of paramet
  w=w−α(d/dJ (w,b) )
 
 ​Updates parameter ww by a small amount
-
+```
 *** 
 ###  Classification: the process of predicting a discrete class label or category
 ( a predctive modeling to analyze categorical data not numerical data): Classification is a task that requires the use of machine learning algorithms that learn how to assign a class label to examples from the problem domain. An easy to understand example is classifying emails as “spam” or “not spam.”
