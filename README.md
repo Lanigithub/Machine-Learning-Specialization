@@ -18,7 +18,7 @@ using other fields, such as Engine size or number of Cylinders
 * #### Types of Regression: Simple regression and multi-Value regression
 * #### Visualization for regression: Regression line, curve 
 ***
-### Linear Regression Model, cost function( mnean_square_error) and Gradient Descent: 
+### Linear Regression Model, cost function( mean_square_error) and Gradient Descent: 
 ```
 Linear Regression model: f(x)_w,b = wx + b   ( parameters w and b)
 
